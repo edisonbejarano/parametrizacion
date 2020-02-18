@@ -1,0 +1,2 @@
+# parametrizacion
+parametrizacion de votacion
